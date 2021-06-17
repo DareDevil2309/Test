@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d0d63a75f89dbbf4a83d20859fc6ecd6
+guid: d55af90e48d58dd4aa10ebcccf1845bd
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -46,11 +46,11 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 75, y: 75, z: 75, w: 75}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
-  spriteTessellationDetail: 0
+  spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -61,24 +61,24 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 256
+    maxTextureSize: 128
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 256
+    maxTextureSize: 128
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
@@ -86,20 +86,7 @@ TextureImporter:
   spriteSheet:
     serializedVersion: 2
     sprites: []
-    outline:
-    - - {x: -17.51931, y: 75}
-      - {x: -31.819645, y: 72.59099}
-      - {x: -60.733215, y: 53.469833}
-      - {x: -74.60387, y: 24.747185}
-      - {x: -74.339836, y: -18.64346}
-      - {x: -57.49436, y: -51.96135}
-      - {x: -24.333332, y: -74.40257}
-      - {x: 23.080505, y: -75}
-      - {x: 62.123993, y: -50.663445}
-      - {x: 73.762665, y: -9.436493}
-      - {x: 73.59743, y: 25.462158}
-      - {x: 55.49768, y: 55.878372}
-      - {x: 27.72142, y: 74.40257}
+    outline: []
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000

@@ -52,9 +52,13 @@ SpriteAtlas:
     - {fileID: 2800000, guid: 4137baabcb411cf47826aa23cefec700, type: 3}
     - {fileID: 2800000, guid: 92acad555e5c0d04990a70e16681500c, type: 3}
     - {fileID: 2800000, guid: f22cedf3670d3114aaf0ece69b9b0a21, type: 3}
+    - {fileID: 2800000, guid: 4d5ed3da0ecc44349a47cb271762e4dc, type: 3}
+    - {fileID: 2800000, guid: cbaecef00fb977f4eb2ad51219a8320c, type: 3}
+    - {fileID: 2800000, guid: a07cd4d95aac1494bba31e544b48d820, type: 3}
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
+  - {fileID: 21300000, guid: cbaecef00fb977f4eb2ad51219a8320c, type: 3}
   - {fileID: 21300000, guid: a7f39282bbcfe484b872533791ff327e, type: 3}
   - {fileID: 21300000, guid: f22cedf3670d3114aaf0ece69b9b0a21, type: 3}
   - {fileID: 21300000, guid: 92acad555e5c0d04990a70e16681500c, type: 3}
@@ -62,10 +66,13 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 6bea8c850a87998448cf5b6aaabefc24, type: 3}
   - {fileID: 21300000, guid: f445b7a628e4b7349884a6b7e653c654, type: 3}
   - {fileID: 21300000, guid: 1c81ce19205539846aded2c25dba9af3, type: 3}
+  - {fileID: 21300000, guid: a07cd4d95aac1494bba31e544b48d820, type: 3}
   - {fileID: 21300000, guid: 71ce3b0a798a836409b26ce8430a4032, type: 3}
+  - {fileID: 21300000, guid: 4d5ed3da0ecc44349a47cb271762e4dc, type: 3}
   - {fileID: 21300000, guid: 4137baabcb411cf47826aa23cefec700, type: 3}
   - {fileID: 21300000, guid: 0bafcc7e9692f4e44a2bc42600f7fb02, type: 3}
   m_PackedSpriteNamesToIndex:
+  - triangle
   - icon_close
   - spell_skeletons
   - spell_health
@@ -73,7 +80,9 @@ SpriteAtlas:
   - button_close
   - button_green
   - Border
+  - armor
   - button_info
+  - diamond
   - icon_info
   - ax_second_level
   m_Tag: UI
