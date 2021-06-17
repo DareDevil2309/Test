@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f445b7a628e4b7349884a6b7e653c654, type: 3}
+    - {fileID: 2800000, guid: 0bafcc7e9692f4e44a2bc42600f7fb02, type: 3}
+    - {fileID: 2800000, guid: 1c81ce19205539846aded2c25dba9af3, type: 3}
+    - {fileID: 2800000, guid: 6bea8c850a87998448cf5b6aaabefc24, type: 3}
+    - {fileID: 2800000, guid: 71ce3b0a798a836409b26ce8430a4032, type: 3}
+    - {fileID: 2800000, guid: d0d63a75f89dbbf4a83d20859fc6ecd6, type: 3}
+    - {fileID: 2800000, guid: a7f39282bbcfe484b872533791ff327e, type: 3}
+    - {fileID: 2800000, guid: 4137baabcb411cf47826aa23cefec700, type: 3}
+    - {fileID: 2800000, guid: 92acad555e5c0d04990a70e16681500c, type: 3}
+    - {fileID: 2800000, guid: f22cedf3670d3114aaf0ece69b9b0a21, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a7f39282bbcfe484b872533791ff327e, type: 3}
+  - {fileID: 21300000, guid: f22cedf3670d3114aaf0ece69b9b0a21, type: 3}
+  - {fileID: 21300000, guid: 92acad555e5c0d04990a70e16681500c, type: 3}
+  - {fileID: 21300000, guid: d0d63a75f89dbbf4a83d20859fc6ecd6, type: 3}
+  - {fileID: 21300000, guid: 6bea8c850a87998448cf5b6aaabefc24, type: 3}
+  - {fileID: 21300000, guid: f445b7a628e4b7349884a6b7e653c654, type: 3}
+  - {fileID: 21300000, guid: 1c81ce19205539846aded2c25dba9af3, type: 3}
+  - {fileID: 21300000, guid: 71ce3b0a798a836409b26ce8430a4032, type: 3}
+  - {fileID: 21300000, guid: 4137baabcb411cf47826aa23cefec700, type: 3}
+  - {fileID: 21300000, guid: 0bafcc7e9692f4e44a2bc42600f7fb02, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_close
+  - spell_skeletons
+  - spell_health
+  - Frame
+  - button_close
+  - button_green
+  - Border
+  - button_info
+  - icon_info
+  - ax_second_level
+  m_Tag: UI
+  m_IsVariant: 0
